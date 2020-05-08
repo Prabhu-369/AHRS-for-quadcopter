@@ -4,4 +4,6 @@
 • Attitude prediction to be done using gyro output. 
 • Attitude is updated using accelerometer and magnetometer output.
 
-Please refer the attached pdf in this section for math equations and c++ code for AHRS code
+Please refer the attached pdf in this section for math equations and c code for AHRS code
+
+This code has been tested on quadcopter and can be used as it is without any modification
